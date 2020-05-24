@@ -1,0 +1,6 @@
+2020-05-20T14:42:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в G:\OpenServer\OpenServer\domains\education\wp-includes\class-smtp.php на строке 1164
+
+2020-05-20T19:03:41+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в G:\OpenServer\OpenServer\domains\education\wp-includes\Requests\Transport\cURL.php на строке 441
+
+2020-05-20T22:21:45+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в G:\OpenServer\OpenServer\domains\education\wp-includes\class-smtp.php на строке 1034
+

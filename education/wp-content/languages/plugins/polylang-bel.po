@@ -1,0 +1,1825 @@
+# Translation of Plugins - Polylang - Stable (latest release) in Belarusian
+# This file is distributed under the same license as the Plugins - Polylang - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-24 11:51:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: be_BY\n"
+"Project-Id-Version: Plugins - Polylang - Stable (latest release)\n"
+
+#: include/filters.php:323
+msgid "Translated user descriptions"
+msgstr "Перакладзеныя апісанні карыстальнікаў"
+
+#. translators: %s is a language native name
+#: include/filters.php:347
+msgid "User description - %s"
+msgstr "Апісанне карыстальніка - %s"
+
+#: include/filters.php:356
+msgid "User"
+msgstr "Карыстальнік"
+
+#: settings/flags.php:231
+msgid "Tibet"
+msgstr "Цібет"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://polylang.pro"
+msgstr "https://polylang.pro"
+
+#: settings/settings-module.php:237
+msgid "Upgrade now."
+msgstr "Абнавіцца зараз."
+
+#: include/license.php:270
+msgid "The license key never expires."
+msgstr "Ключ ліцэнзіі ніколі не будзе пратэрмінаваны."
+
+#. translators: %1$s is a date, %2$s is link start tag, %3$s is link end tag.
+#: include/license.php:218
+msgid "Your license key expired on %1$s. Please %2$srenew your license key%3$s."
+msgstr "Ваша ліцэнзія скончылася %1$s. %2$sАбнавіце сваю ліцэнзію%3$s."
+
+#: settings/settings-licenses.php:23
+msgid "License keys"
+msgstr "Ключы ліцэнзіі"
+
+#: modules/share-slug/settings-share-slug.php:22
+msgid "Share slugs"
+msgstr "Падзяліцца слэгамі"
+
+#: install/plugin-updater.php:522
+msgid "Error"
+msgstr "Памылка"
+
+#. translators: %1$s plugin name, %3$s plugin version, %2$s is link start tag,
+#. %4$s is link end tag.
+#: install/plugin-updater.php:270
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "Даступна новая версія %1$s. %2$sПрагледзець звесткі %3$s аб версіі%4$s."
+
+#. translators: %1$s plugin name, %3$s plugin version, %2$s and %5$s are link
+#. start tags, %4$s and %6$s are link end tags.
+#: install/plugin-updater.php:279
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr "Даступна новая версія %1$s. %2$sПрагледзець звесткі %3$s аб версіі%4$s ці %5$sабнавіцца%6$s."
+
+#. translators: %1$s is a product name, %2$s is link start tag, %3$s is link
+#. end tag.
+#: include/license.php:243
+msgid "Your %1$s license key is not active for this URL. Please %2$svisit your account page%3$s to manage your license key URLs."
+msgstr "Ваш ключ ліцэнзіі %1$s не актываваны для гэтага URL. Наведайце %2$sсвой уліковы запіс%3$s, каб наладзіць URL-адрасы для ліцэнзій."
+
+#. translators: %s is a date
+#: include/license.php:283
+msgid "Your license key expires on %s."
+msgstr "Ваша ліцэнзія будзе пратэрмінавана %s."
+
+#: install/plugin-updater.php:522
+msgid "You do not have permission to install plugin updates"
+msgstr "Вам бракуе дазволаў для ўсталёўкі абнаўленняў плагіна"
+
+#. translators: %s is a product name
+#: include/license.php:252
+msgid "This is not a %s license key."
+msgstr "Памылковы ключ ліцэнзіі для %s."
+
+#: modules/translate-slugs/settings-translate-slugs.php:21
+msgid "Translate slugs"
+msgstr "Пераклад слэгаў"
+
+#: modules/translate-slugs/settings-translate-slugs.php:22
+msgid "Allows to translate custom post types and taxonomies slugs in urls."
+msgstr "Дазваляе перакладаць адвольныя тыпы запісаў і слэгі таксаноміі ў спасылках."
+
+#: modules/share-slug/settings-share-slug.php:23
+msgid "Allows to share the same url slug across languages for posts and terms."
+msgstr "Дазваляе падзяляць адзін і той жа слэг ў розных мовах для запісаў і тэрмінаў."
+
+#. translators: %1$s is link start tag, %2$s is link end tag.
+#: include/license.php:233
+msgid "Invalid license. Please %1$svisit your account page%2$s and verify it."
+msgstr "Нядзейсная ліцэнзія. %1$sНаведайце свой уліковы запіс%2$s і праверце яе."
+
+#. translators: %1$s is link start tag, %2$s is link end tag
+#: include/license.php:258
+msgid "Your license key has reached its activation limit. %1$sView possible upgrades%2$s now."
+msgstr "Вы дасягнулі ліміту актывацыі ліцэнзіі. %1$sПрагледьзе даступныя варыянты абнаўлення%2$s."
+
+#. translators: %1$s is link start tag, %2$s is link end tag.
+#: settings/view-about.php:23
+msgid "Support and extra features are available to %1$sPolylang Pro%2$s users."
+msgstr "Для карыстальнікаў %1$sPolylang Pro%2$s даступны падтрымка і дадатковыя функцыі."
+
+#. translators: Post calendar label. 1: Date
+#: include/widget-calendar.php:236
+msgid "Posts published on %s"
+msgstr "Запісы апублікаваныя ў %s"
+
+#: include/widget-calendar.php:234
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F, Y"
+
+#: settings/view-tab-lang.php:142
+msgid "Choose a flag for the language."
+msgstr "Выберыце сцяг мовы."
+
+#. translators: accessibility text
+#: settings/table-string.php:313
+msgid "Filter by group"
+msgstr "Фільтр па групах"
+
+#. translators:  accessibility text, %s is a string potentially in any language
+#: settings/table-string.php:73
+msgid "Select %s"
+msgstr "Выбраць %s"
+
+#: settings/table-settings.php:144
+msgid "Description"
+msgstr "Апісанне"
+
+#: settings/table-settings.php:143
+msgid "Module"
+msgstr "Модуль"
+
+#: settings/settings-module.php:66
+msgid "Save Changes"
+msgstr "Захаваць змены"
+
+#: settings/settings-module.php:65
+msgid "Cancel"
+msgstr "Отмена"
+
+#: settings/table-languages.php:207
+msgid "Delete this language and all its associated data"
+msgstr "Выдаліць гэтую мову і ўсе злучаныя дадзеныя"
+
+#: settings/table-languages.php:110
+msgid "Select as default language"
+msgstr "Выбраць як мову па змаўчанні"
+
+#: settings/table-languages.php:87 settings/table-languages.php:201
+msgid "Edit this language"
+msgstr "Рэдагаваць гэтую мову"
+
+#: settings/settings.php:359
+msgid "You can set them all to the default language."
+msgstr "Вы можаце прызначыць усім запісам мову па змаўчанні."
+
+#: modules/wizard/view-wizard-step-untranslated-contents.php:18
+#: settings/settings.php:357
+msgid "There are posts, pages, categories or tags without language."
+msgstr "Ёсць запісы, старонкі, катэгорыі ці тэгі без мовы."
+
+#. translators: %s is a native language name
+#: settings/settings-url.php:242
+msgid "Please enter a valid URL for %s."
+msgstr "Увядзіце сапраўдны URL для %s."
+
+#. translators: accessibility text, %s is a native language name
+#: settings/table-languages.php:113
+msgid "Choose %s as default language"
+msgstr "Выберыце %s, як мову па змаўчанні"
+
+#: settings/settings-url.php:23
+msgid "Decide how your URLs will look like."
+msgstr "Вызначае, як будуць выглядаць вашы URL."
+
+#: settings/settings-module.php:56
+msgid "Activate this module"
+msgstr "Актываваць гэты модуль"
+
+#: settings/settings-module.php:61
+msgid "Deactivated"
+msgstr "Адключана"
+
+#: settings/flags.php:262
+msgid "Zambia"
+msgstr "Замбія"
+
+#: settings/flags.php:263
+msgid "Zimbabwe"
+msgstr "Зімбабвэ"
+
+#: settings/settings-module.php:44
+msgid "Configure this module"
+msgstr "Наладзіць гэты модуль"
+
+#: settings/settings-cpt.php:23
+msgid "Custom post types and Taxonomies"
+msgstr "Адвольныя тыпы запісаў і таксанаміі"
+
+#: include/license.php:267 settings/settings-module.php:52
+msgid "Deactivate"
+msgstr "Адключыць"
+
+#: settings/settings-module.php:50
+msgid "Deactivate this module"
+msgstr "Адключыць гэты модуль"
+
+#: settings/flags.php:259
+msgid "Yemen"
+msgstr "Емен"
+
+#: settings/flags.php:260
+msgid "Mayotte"
+msgstr "Востраў Маёта"
+
+#: settings/flags.php:261
+msgid "South Africa"
+msgstr "Паўднёва-Афрыканская Рэспубліка"
+
+#: settings/flags.php:255
+msgid "Vanuatu"
+msgstr "Вануату"
+
+#: settings/flags.php:258
+msgid "Western Samoa"
+msgstr "Заходняе Самое"
+
+#: settings/flags.php:257
+msgid "Wallis and Futuna"
+msgstr "Уоліс і Футуна"
+
+#: settings/flags.php:256
+msgid "Wales"
+msgstr "Уэльс"
+
+#: settings/flags.php:250
+msgid "Venezuela"
+msgstr "Венесуэла"
+
+#: settings/flags.php:254
+msgid "Vietnam"
+msgstr "В'етнам"
+
+#: settings/flags.php:253
+msgid "United States Virgin Islands"
+msgstr "Віргінскія астравы"
+
+#: settings/flags.php:251
+msgid "Veneto"
+msgstr "Венета"
+
+#: settings/flags.php:252
+msgid "British Virgin Islands"
+msgstr "Брытанскія Віргінскія астравы"
+
+#: settings/flags.php:249
+msgid "Saint Vincent and the Grenadines"
+msgstr "Сэнт-Вінсэнт і Грэнадзіны"
+
+#: settings/flags.php:246
+msgid "Uruguay"
+msgstr "Уругвай"
+
+#: settings/flags.php:247
+msgid "Uzbekistan"
+msgstr "Узбекістан"
+
+#: settings/flags.php:248
+msgid "Vatican"
+msgstr "Ватыкан"
+
+#: settings/flags.php:243
+msgid "Ukraine"
+msgstr "Украіна"
+
+#: settings/flags.php:244
+msgid "Uganda"
+msgstr "Уганда"
+
+#: settings/flags.php:245
+msgid "United States"
+msgstr "ЗША"
+
+#: settings/flags.php:239
+msgid "Trinidad and Tobago"
+msgstr "Трынідад і Табага"
+
+#: settings/flags.php:240
+msgid "Tuvalu"
+msgstr "Тувалу"
+
+#: settings/flags.php:241
+msgid "Taiwan"
+msgstr "Тайвань"
+
+#: settings/flags.php:242
+msgid "Tanzania"
+msgstr "Танзанія"
+
+#: settings/flags.php:236
+msgid "Tunisia"
+msgstr "Туніс"
+
+#: settings/flags.php:237
+msgid "Tonga"
+msgstr "Тонга"
+
+#: settings/flags.php:238
+msgid "Turkey"
+msgstr "Турцыя"
+
+#: settings/flags.php:232
+msgid "Tajikistan"
+msgstr "Таджыкістан"
+
+#: settings/flags.php:235
+msgid "Turkmenistan"
+msgstr "Туркменія"
+
+#: settings/flags.php:234
+msgid "Timor-Leste"
+msgstr "Цімор"
+
+#: settings/flags.php:233
+msgid "Tokelau"
+msgstr "Такелау"
+
+#: settings/flags.php:227
+msgid "Chad"
+msgstr "Чад"
+
+#: settings/flags.php:229
+msgid "Togo"
+msgstr "Таго"
+
+#: settings/flags.php:230
+msgid "Thailand"
+msgstr "Тайланд"
+
+#: settings/flags.php:228
+msgid "French Southern Territories"
+msgstr "Французскія Паўднёвыя тэрыторыі"
+
+#: settings/flags.php:225
+msgid "Swaziland"
+msgstr "Свазіленд"
+
+#: settings/flags.php:226
+msgid "Turks and Caicos Islands"
+msgstr "Тэркс і Кайкас"
+
+#: settings/flags.php:224
+msgid "Syria"
+msgstr "Сірыя"
+
+#: settings/flags.php:220
+msgid "Suriname"
+msgstr "Сурынам"
+
+#: settings/flags.php:223
+msgid "El Salvador"
+msgstr "Эль-Сальвадор"
+
+#: settings/flags.php:222
+msgid "São Tomé and Príncipe"
+msgstr "Востраў Сан-Тамэ і Прынчыпе"
+
+#: settings/flags.php:221
+msgid "South Sudan"
+msgstr "Паўднёвы Судан"
+
+#: settings/flags.php:218
+msgid "Senegal"
+msgstr "Сенегал"
+
+#: settings/flags.php:219
+msgid "Somalia"
+msgstr "Самалі"
+
+#: settings/flags.php:214
+msgid "Slovenia"
+msgstr "Славенія"
+
+#: settings/flags.php:215
+msgid "Slovakia"
+msgstr "Славакія"
+
+#: settings/flags.php:216
+msgid "Sierra Leone"
+msgstr "Сьера-Леонэ"
+
+#: settings/flags.php:217
+msgid "San Marino"
+msgstr "Сан-Марына"
+
+#: settings/flags.php:213
+msgid "Saint Helena"
+msgstr "Востраў святой Алёны"
+
+#: settings/flags.php:211
+msgid "Sweden"
+msgstr "Швецыя"
+
+#: settings/flags.php:212
+msgid "Singapore"
+msgstr "Сінгапур"
+
+#: settings/flags.php:207
+msgid "Solomon Islands"
+msgstr "Саламонавы выспы"
+
+#: settings/flags.php:208
+msgid "Seychelles"
+msgstr "Сейшэлы"
+
+#: settings/flags.php:210
+msgid "Sudan"
+msgstr "Судан"
+
+#: settings/flags.php:209
+msgid "Scotland"
+msgstr "Шатландыя"
+
+#: settings/flags.php:204
+msgid "Russia"
+msgstr "Расія"
+
+#: settings/flags.php:205
+msgid "Rwanda"
+msgstr "Руанда"
+
+#: settings/flags.php:206
+msgid "Saudi Arabia"
+msgstr "Саудаўская Аравія"
+
+#: settings/flags.php:202
+msgid "Romania"
+msgstr "Румынія"
+
+#: settings/flags.php:203
+msgid "Serbia"
+msgstr "Сербія"
+
+#: settings/flags.php:201
+msgid "Quebec"
+msgstr "Квебек"
+
+#: settings/flags.php:199
+msgid "Paraguay"
+msgstr "Парагвай"
+
+#: settings/flags.php:200
+msgid "Qatar"
+msgstr "Катар"
+
+#: settings/flags.php:198
+msgid "Belau"
+msgstr "Белау"
+
+#: settings/flags.php:197
+msgid "Portugal"
+msgstr "Партугалія"
+
+#: settings/flags.php:196
+msgid "Palestinian Territory"
+msgstr "Палестынскія тэрыторыі"
+
+#: settings/flags.php:194
+msgid "Pitcairn"
+msgstr "Астравы Піткэрн"
+
+#: settings/flags.php:195
+msgid "Puerto Rico"
+msgstr "Пуэрта-Рыка"
+
+#: settings/flags.php:193
+msgid "Saint Pierre and Miquelon"
+msgstr "Астравы Сан-Пьер і Мікелон"
+
+#: settings/flags.php:190
+msgid "Philippines"
+msgstr "Філіпіны"
+
+#: settings/flags.php:191
+msgid "Pakistan"
+msgstr "Пакістан"
+
+#: settings/flags.php:192
+msgid "Poland"
+msgstr "Польшча"
+
+#: settings/flags.php:187
+msgid "Peru"
+msgstr "Перу"
+
+#: settings/flags.php:189
+msgid "Papua New Guinea"
+msgstr "Папуа — Новая Гвінея"
+
+#: settings/flags.php:188
+msgid "French Polynesia"
+msgstr "Французская Палінэзія"
+
+#: settings/flags.php:183
+msgid "New Zealand"
+msgstr "Новая Зеландыя"
+
+#: settings/flags.php:185
+msgid "Oman"
+msgstr "Аман"
+
+#: settings/flags.php:186
+msgid "Panama"
+msgstr "Панама"
+
+#: settings/flags.php:184
+msgid "Occitania"
+msgstr "Аксітанія"
+
+#: settings/flags.php:181
+msgid "Nauru"
+msgstr "Науру"
+
+#: settings/flags.php:182
+msgid "Niue"
+msgstr "Ніуэ"
+
+#: settings/flags.php:179
+msgid "Norway"
+msgstr "Нарвегія"
+
+#: settings/flags.php:180
+msgid "Nepal"
+msgstr "Непал"
+
+#: settings/flags.php:178
+msgid "Netherlands"
+msgstr "Нідэрланды"
+
+#: settings/flags.php:174
+msgid "Niger"
+msgstr "Нігер"
+
+#: settings/flags.php:176
+msgid "Nigeria"
+msgstr "Нігерыя"
+
+#: settings/flags.php:177
+msgid "Nicaragua"
+msgstr "Нікарагуа"
+
+#: settings/flags.php:175
+msgid "Norfolk Island"
+msgstr "Востраў Норфалк"
+
+#: settings/flags.php:170
+msgid "Malaysia"
+msgstr "Малайзія"
+
+#: settings/flags.php:171
+msgid "Mozambique"
+msgstr "Мазамбік"
+
+#: settings/flags.php:172
+msgid "Namibia"
+msgstr "Намібія"
+
+#: settings/flags.php:173
+msgid "New Caledonia"
+msgstr "Новая Каледонія"
+
+#: settings/flags.php:167
+msgid "Maldives"
+msgstr "Мальдывы"
+
+#: settings/flags.php:168
+msgid "Malawi"
+msgstr "Малаві"
+
+#: settings/flags.php:169
+msgid "Mexico"
+msgstr "Мексіка"
+
+#: settings/flags.php:166
+msgid "Mauritius"
+msgstr "Маўрыкій"
+
+#: settings/flags.php:163
+msgid "Mauritania"
+msgstr "Маўрытанія"
+
+#: settings/flags.php:164
+msgid "Montserrat"
+msgstr "Мантсерат"
+
+#: settings/flags.php:165
+msgid "Malta"
+msgstr "Мальта"
+
+#: settings/flags.php:162
+msgid "Martinique"
+msgstr "Марцініка"
+
+#: settings/flags.php:161
+msgid "Northern Mariana Islands"
+msgstr "Паўночныя Марыянскія астравы"
+
+#: settings/flags.php:159
+msgid "Mongolia"
+msgstr "Манголія"
+
+#: settings/flags.php:160
+msgid "Macao"
+msgstr "Макаа"
+
+#: settings/flags.php:158
+msgid "Myanmar"
+msgstr "Мьянма"
+
+#: settings/flags.php:157
+msgid "Mali"
+msgstr "Малі"
+
+#: settings/flags.php:155
+msgid "Marshall Islands"
+msgstr "Маршалавы астравы"
+
+#: settings/flags.php:152
+msgid "Moldova"
+msgstr "Малдова"
+
+#: settings/flags.php:153
+msgid "Montenegro"
+msgstr "Чарнагорыя"
+
+#: settings/flags.php:154
+msgid "Madagascar"
+msgstr "Мадагаскар"
+
+#: settings/flags.php:149
+msgid "Libya"
+msgstr "Лівія"
+
+#: settings/flags.php:150
+msgid "Morocco"
+msgstr "Марока"
+
+#: settings/flags.php:151
+msgid "Monaco"
+msgstr "Манака"
+
+#: settings/flags.php:147
+msgid "Luxembourg"
+msgstr "Люксембург"
+
+#: settings/flags.php:148
+msgid "Latvia"
+msgstr "Латвія"
+
+#: settings/flags.php:144
+msgid "Liberia"
+msgstr "Ліберыя"
+
+#: settings/flags.php:145
+msgid "Lesotho"
+msgstr "Лесота"
+
+#: settings/flags.php:146
+msgid "Lithuania"
+msgstr "Літва"
+
+#: settings/flags.php:142
+msgid "Liechtenstein"
+msgstr "Ліхтэнштэйн"
+
+#: settings/flags.php:143
+msgid "Sri Lanka"
+msgstr "Шры-Ланка"
+
+#: settings/flags.php:141
+msgid "Saint Lucia"
+msgstr "Сэнт-Люсія"
+
+#: settings/flags.php:138
+msgid "Kazakhstan"
+msgstr "Казахстан"
+
+#: settings/flags.php:139
+msgid "Laos"
+msgstr "Лаос"
+
+#: settings/flags.php:140
+msgid "Lebanon"
+msgstr "Ліван"
+
+#: settings/flags.php:136
+msgid "Kuwait"
+msgstr "Кувейт"
+
+#: settings/flags.php:137
+msgid "Cayman Islands"
+msgstr "Кайманавы астравы"
+
+#: settings/flags.php:135
+msgid "Kurdistan"
+msgstr "Курдзістан"
+
+#: settings/flags.php:134
+msgid "South Korea"
+msgstr "Паўднёвая Карэя"
+
+#: settings/flags.php:133
+msgid "North Korea"
+msgstr "Паўночная Карэя"
+
+#: settings/flags.php:132
+msgid "Saint Kitts and Nevis"
+msgstr "Астравы Сан-Кітс і Нэвіс"
+
+#: settings/flags.php:129
+msgid "Cambodia"
+msgstr "Камбоджа"
+
+#: settings/flags.php:130
+msgid "Kiribati"
+msgstr "Кірыбаці"
+
+#: settings/flags.php:131
+msgid "Comoros"
+msgstr "Каморы"
+
+#: settings/flags.php:125
+msgid "Jordan"
+msgstr "Іярданія"
+
+#: settings/flags.php:126
+msgid "Japan"
+msgstr "Японія"
+
+#: settings/flags.php:127
+msgid "Kenya"
+msgstr "Кенія"
+
+#: settings/flags.php:128
+msgid "Kyrgyzstan"
+msgstr "Кіргізія"
+
+#: settings/flags.php:124
+msgid "Jamaica"
+msgstr "Ямайка"
+
+#: settings/flags.php:120
+msgid "Iraq"
+msgstr "Ірак"
+
+#: settings/flags.php:121
+msgid "Iran"
+msgstr "Іран"
+
+#: settings/flags.php:122
+msgid "Iceland"
+msgstr "Ісландыя"
+
+#: settings/flags.php:123
+msgid "Italy"
+msgstr "Італія"
+
+#: settings/flags.php:117
+msgid "Israel"
+msgstr "Ізраіль"
+
+#: settings/flags.php:118
+msgid "India"
+msgstr "Індыя"
+
+#: settings/flags.php:119
+msgid "British Indian Ocean Territory"
+msgstr "Брытанскія Індыйскія заморскія тэрыторыі"
+
+#: settings/flags.php:113
+msgid "Haiti"
+msgstr "Гаіці"
+
+#: settings/flags.php:114
+msgid "Hungary"
+msgstr "Венгрыя"
+
+#: settings/flags.php:115
+msgid "Indonesia"
+msgstr "Інданезія"
+
+#: settings/flags.php:116
+msgid "Republic of Ireland"
+msgstr "Рэспубліка Ірландыя"
+
+#: settings/flags.php:111
+msgid "Honduras"
+msgstr "Гандурас"
+
+#: settings/flags.php:112
+msgid "Croatia"
+msgstr "Харватыя"
+
+#: settings/flags.php:110
+msgid "Heard Island and McDonald Islands"
+msgstr "Востраў Хёрд і астравы МакДональд"
+
+#: settings/flags.php:109
+msgid "Hong Kong"
+msgstr "Гонг-Конг"
+
+#: settings/flags.php:107
+msgid "Guinea-Bissau"
+msgstr "Гвінея-Бісау"
+
+#: settings/flags.php:108
+msgid "Guyana"
+msgstr "Гаяна"
+
+#: settings/flags.php:106
+msgid "Guam"
+msgstr "Гуам"
+
+#: settings/flags.php:105
+msgid "Guatemala"
+msgstr "Гватэмала"
+
+#: settings/flags.php:104
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Паўднёвая Джорджыя і Паўднёвыя Сандвічавы астравы"
+
+#: settings/flags.php:102
+msgid "Equatorial Guinea"
+msgstr "Экватарыяльная Гвінея"
+
+#: settings/flags.php:103
+msgid "Greece"
+msgstr "Грэцыя"
+
+#: settings/flags.php:100
+msgid "Guinea"
+msgstr "Гвінея"
+
+#: settings/flags.php:101
+msgid "Guadeloupe"
+msgstr "Гвадэлупа"
+
+#: settings/flags.php:99
+msgid "Gambia"
+msgstr "Гамбія"
+
+#: settings/flags.php:97
+msgid "Gibraltar"
+msgstr "Гібралтар"
+
+#: settings/flags.php:98
+msgid "Greenland"
+msgstr "Грэнландыя"
+
+#: settings/flags.php:95
+msgid "Georgia"
+msgstr "Грузія"
+
+#: settings/flags.php:96
+msgid "Ghana"
+msgstr "Гана"
+
+#: settings/flags.php:93
+msgid "United Kingdom"
+msgstr "Вялікабрытанія"
+
+#: settings/flags.php:94
+msgid "Grenada"
+msgstr "Грэнада"
+
+#: settings/flags.php:92
+msgid "Galicia"
+msgstr "Галіцыя"
+
+#: settings/flags.php:90
+msgid "France"
+msgstr "Францыя"
+
+#: settings/flags.php:91
+msgid "Gabon"
+msgstr "Габон"
+
+#: settings/flags.php:89
+msgid "Faroe Islands"
+msgstr "Фарэрскія астравы"
+
+#: settings/flags.php:88
+msgid "Micronesia"
+msgstr "Мікранэзія"
+
+#: settings/flags.php:87
+msgid "Falkland Islands"
+msgstr "Фолклэндскія астравы"
+
+#: settings/flags.php:84
+msgid "Ethiopia"
+msgstr "Эфіёпія"
+
+#: settings/flags.php:85
+msgid "Finland"
+msgstr "Фінляндыя"
+
+#: settings/flags.php:86
+msgid "Fiji"
+msgstr "Фіджы"
+
+#: settings/flags.php:83
+msgid "Esperanto"
+msgstr "Эсперанта"
+
+#: settings/flags.php:81
+msgid "Eritrea"
+msgstr "Эрытрэя"
+
+#: settings/flags.php:82
+msgid "Spain"
+msgstr "Іспанія"
+
+#: settings/flags.php:80
+msgid "England"
+msgstr "Англія"
+
+#: settings/flags.php:77
+msgid "Estonia"
+msgstr "Эстонія"
+
+#: settings/flags.php:78
+msgid "Egypt"
+msgstr "Егіпет"
+
+#: settings/flags.php:79
+msgid "Western Sahara"
+msgstr "Заходняя Сахара"
+
+#: settings/flags.php:74
+msgid "Dominican Republic"
+msgstr "Дамініканская Рэспубліка"
+
+#: settings/flags.php:75
+msgid "Algeria"
+msgstr "Алжыр"
+
+#: settings/flags.php:76
+msgid "Ecuador"
+msgstr "Эквадор"
+
+#: settings/flags.php:73
+msgid "Dominica"
+msgstr "Дамініка"
+
+#: settings/flags.php:72
+msgid "Denmark"
+msgstr "Данія"
+
+#: settings/flags.php:70
+msgid "Germany"
+msgstr "Германія"
+
+#: settings/flags.php:71
+msgid "Djibouti"
+msgstr "Джыбуці"
+
+#: settings/flags.php:68
+msgid "Cyprus"
+msgstr "Кіпр"
+
+#: settings/flags.php:69
+msgid "Czech Republic"
+msgstr "Чэшская Рэспубліка"
+
+#: settings/flags.php:67
+msgid "Christmas Island"
+msgstr "Востраў Раства"
+
+#: settings/flags.php:65
+msgid "Cuba"
+msgstr "Куба"
+
+#: settings/flags.php:66
+msgid "Cape Verde"
+msgstr "Каба-Вердэ"
+
+#: settings/flags.php:62
+msgid "China"
+msgstr "Кітай"
+
+#: settings/flags.php:63
+msgid "Colombia"
+msgstr "Калумбія"
+
+#: settings/flags.php:64
+msgid "Costa Rica"
+msgstr "Коста Рыка"
+
+#: settings/flags.php:60
+msgid "Chile"
+msgstr "Чылі"
+
+#: settings/flags.php:61
+msgid "Cameroon"
+msgstr "Камерун"
+
+#: settings/flags.php:58
+msgid "Ivory Coast"
+msgstr "Кот д’Івуар"
+
+#: settings/flags.php:59
+msgid "Cook Islands"
+msgstr "Астравы Кука"
+
+#: settings/flags.php:55
+msgid "Central African Republic"
+msgstr "Цэнтральна-Афрыканская Рэспубліка"
+
+#: settings/flags.php:57
+msgid "Switzerland"
+msgstr "Швейцарыя"
+
+#: settings/flags.php:56
+msgid "Congo"
+msgstr "Конга"
+
+#: settings/flags.php:54
+msgid "Democratic Republic of the Congo"
+msgstr "Дэмакратычная Рэспубліка Конга"
+
+#: settings/flags.php:51
+msgid "Canada"
+msgstr "Канада"
+
+#: settings/flags.php:53
+msgid "Cocos"
+msgstr "Какосавыя астравы"
+
+#: settings/flags.php:52
+msgid "Catalonia"
+msgstr "Каталонія"
+
+#: settings/flags.php:49
+msgid "Belarus"
+msgstr "Беларусь"
+
+#: settings/flags.php:50
+msgid "Belize"
+msgstr "Беліз"
+
+#: settings/flags.php:47
+msgid "Bhutan"
+msgstr "Бутан"
+
+#: settings/flags.php:48
+msgid "Botswana"
+msgstr "Батсвана"
+
+#: settings/flags.php:46
+msgid "Bahamas"
+msgstr "Багамы"
+
+#: settings/flags.php:44
+msgid "Bolivia"
+msgstr "Балівія"
+
+#: settings/flags.php:45
+msgid "Brazil"
+msgstr "Бразілія"
+
+#: settings/flags.php:43
+msgid "Brunei"
+msgstr "Бруней"
+
+#: settings/flags.php:42
+msgid "Bermuda"
+msgstr "Бермудскія астравы"
+
+#: settings/flags.php:40
+msgid "Burundi"
+msgstr "Бурундзі"
+
+#: settings/flags.php:41
+msgid "Benin"
+msgstr "Бенін"
+
+#: settings/flags.php:37
+msgid "Burkina Faso"
+msgstr "Буркіна-Фасо"
+
+#: settings/flags.php:38
+msgid "Bulgaria"
+msgstr "Балгарыя"
+
+#: settings/flags.php:39
+msgid "Bahrain"
+msgstr "Бахрэйн"
+
+#: settings/flags.php:35
+msgid "Bangladesh"
+msgstr "Бангладэш"
+
+#: settings/flags.php:36
+msgid "Belgium"
+msgstr "Бельгія"
+
+#: settings/flags.php:34
+msgid "Barbados"
+msgstr "Барбадас"
+
+#: settings/flags.php:31
+msgid "Azerbaijan"
+msgstr "Азербайджан"
+
+#: settings/flags.php:32
+msgid "Bosnia and Herzegovina"
+msgstr "Боснія і Герцагавіна"
+
+#: settings/flags.php:33
+msgid "Basque Country"
+msgstr "Краіна баскаў"
+
+#: settings/flags.php:30
+msgid "Åland Islands"
+msgstr "Аландскія астравы"
+
+#: settings/flags.php:29
+msgid "Aruba"
+msgstr "Аруба"
+
+#: settings/flags.php:28
+msgid "Australia"
+msgstr "Аўстралія"
+
+#: settings/flags.php:27
+msgid "Austria"
+msgstr "Аўстрыя"
+
+#: settings/flags.php:26
+msgid "American Samoa"
+msgstr "Амерыканскае Самоа"
+
+#: settings/flags.php:25
+msgid "Arab league"
+msgstr "Арабская ліга"
+
+#: settings/flags.php:23
+msgid "Angola"
+msgstr "Ангола"
+
+#: settings/flags.php:24
+msgid "Argentina"
+msgstr "Аргенціна"
+
+#: settings/flags.php:22
+msgid "Netherlands Antilles"
+msgstr "Антыльскія астравы"
+
+#: settings/flags.php:20
+msgid "Albania"
+msgstr "Албанія"
+
+#: settings/flags.php:21
+msgid "Armenia"
+msgstr "Арменія"
+
+#: settings/flags.php:17
+msgid "Afghanistan"
+msgstr "Афганістан"
+
+#: settings/flags.php:18
+msgid "Antigua and Barbuda"
+msgstr "Антыгуа і Барбуда"
+
+#: settings/flags.php:19
+msgid "Anguilla"
+msgstr "Ангілья"
+
+#: settings/flags.php:16
+msgid "United Arab Emirates"
+msgstr "Аб'яднаныя Арабскія Эміраты"
+
+#: settings/flags.php:15
+msgid "Andorra"
+msgstr "Андора"
+
+#. translators: accessibility text
+#: admin/view-translations-term.php:76 admin/view-translations-post.php:57
+msgid "Translation"
+msgstr "Пераклад"
+
+#: admin/admin-static-pages.php:99
+msgid "Posts Page"
+msgstr "Старонка з запісамі"
+
+#: admin/admin-static-pages.php:95
+msgid "Front Page"
+msgstr "Галоўная старонка"
+
+#: admin/admin-nav-menu.php:75
+msgid "Add to Menu"
+msgstr "Дадаць да меню"
+
+#: modules/wizard/wizard.php:435 admin/admin-model.php:302
+msgid "The flag does not exist"
+msgstr "Сцяг не існуе"
+
+#. translators: accessibility text, %s is a native language name
+#: admin/admin-links.php:24
+msgid "Add a translation in %s"
+msgstr "Дадаць пераклад у %s"
+
+#. translators: accessibility text, %s is a native language name
+#: admin/admin-filters-columns.php:165 admin/admin-filters-columns.php:292
+msgid "This item is in %s"
+msgstr "Гэты элемент у %s"
+
+#. translators: accessibility text, %s is a native language name
+#: admin/admin-filters-columns.php:152 admin/admin-filters-columns.php:279
+#: admin/admin-links.php:51
+msgid "Edit the translation in %s"
+msgstr "Рэдагаваць пераклад у %s"
+
+#. translators: accessibility text, %s is a native language name
+#: admin/admin-filters-columns.php:148 admin/admin-filters-columns.php:275
+msgid "Edit this item in %s"
+msgstr "Рэдагаваць гэты элемент у %s"
+
+#. Description of the plugin
+msgid "Adds multilingual capability to WordPress"
+msgstr "Дадае магчымасць падтрымкі шматмоў'я ў WordPress"
+
+#: lingotek/lingotek.php:79 settings/settings-module.php:60
+msgid "Activated"
+msgstr "Актывавана"
+
+#: lingotek/lingotek.php:143
+msgid "Do you need help creating glossaries and terminologies?"
+msgstr "Патрэбна дапамога ў стварэнні гласарыяў і тэрміналагічных баз?"
+
+#: lingotek/lingotek.php:142
+msgid "Do you have existing Translation Memories you would like to use?"
+msgstr "Маеце існуючыя перакладчаскія памяці, якімі хочаце скарыстацца?"
+
+#: lingotek/lingotek.php:141
+msgid "Do you need customized workflows?"
+msgstr "Патрэбны адвольныя рабочыя працэсы?"
+
+#: lingotek/lingotek.php:140
+msgid "Do you need someone to run your localization project?"
+msgstr "Патрэбна нехта, хто будзе кіраваць вашым праектам лакалізацыі?"
+
+#: lingotek/lingotek.php:137
+msgid "Do you need help translating your site?"
+msgstr "Патрэбна дапамога ў перакладзе сайта?"
+
+#: lingotek/lingotek.php:111
+msgid "Translation Management System"
+msgstr "Сістэма кіравання перакладамі"
+
+#: lingotek/lingotek.php:101
+msgid "Polylang is now fully integrated with Lingotek!"
+msgstr "Polylang зараз поўнасцю злучаны з Lingotek!"
+
+#: lingotek/lingotek.php:90
+msgid "Request Services"
+msgstr "Замовіць паслугі"
+
+#: lingotek/lingotek.php:84
+msgid "Request Translation"
+msgstr "Замовіць пераклад"
+
+#: lingotek/lingotek.php:79 settings/settings-module.php:58
+msgid "Activate"
+msgstr "Актываваць"
+
+#: lingotek/lingotek.php:97
+msgid "Polylang is now fully integrated with Lingotek, a professional translation management system!"
+msgstr "Polylang зараз поўнасцю злучаны з Lingotek - прафесійнай сістэмай кіравання перакладамі!"
+
+#: lingotek/lingotek.php:103 lingotek/lingotek.php:114
+msgid "Access free machine translation for your site for up to 100,000 characters."
+msgstr "Атрымайце бясплатны машынны пераклад для свайго сайта памерам да 100000 сімвалаў."
+
+#. Plugin Name of the plugin
+msgid "Polylang"
+msgstr "Polylang"
+
+#: lingotek/lingotek.php:263
+msgid "Learn more..."
+msgstr "Даведацца больш&hellip;"
+
+#: lingotek/lingotek.php:112
+msgid "Do you need to connect to a professional translation management system?"
+msgstr "Вам патрэбна злучэнне з прафесійнай сістэмай кіравання перакладамі?"
+
+#: lingotek/lingotek.php:117
+msgid "Save and re-use previously translated material (leverage translation memory (TM))."
+msgstr "Захоўвайце і зноў выкарыстоўвайце раней перакладзенае змесціва (распаўсюдзьце перакладчаскую памяць)."
+
+#: lingotek/lingotek.php:116
+msgid "Have linguists compare side-by-side versions of original and translated text."
+msgstr "Запрасіце лінгвістаў параўнаць арыгінальны і перакладзены тэксты."
+
+#: lingotek/lingotek.php:139
+msgid "Start the process of getting extra services."
+msgstr "Атрымайце дадатковыя паслугі."
+
+#: lingotek/lingotek.php:127
+msgid "Start the process of getting a professional translation bid."
+msgstr "Атрымайце стаўку на прафесійны пераклад."
+
+#: lingotek/lingotek.php:115
+msgid "Access an online translator workbench."
+msgstr "Атрымайце доступ да працоўнага месца онлайн-перакладчыка."
+
+#: modules/wizard/view-wizard-step-languages.php:28
+#: modules/wizard/wizard.php:446 admin/admin-nav-menu.php:65
+#: admin/admin-nav-menu.php:68 admin/admin-nav-menu.php:99
+#: admin/admin-notices.php:89 admin/admin-classic-editor.php:50
+#: admin/admin-base.php:93 admin/admin-base.php:117 include/nav-menu.php:44
+#: include/translated-post.php:107 settings/settings.php:142
+msgid "Languages"
+msgstr "Мовы"
+
+#: admin/admin-base.php:389
+msgid "Show all languages"
+msgstr "Паказаць усе мовы"
+
+#: modules/wizard/view-wizard-step-languages.php:66
+#: admin/admin-filters-term.php:99 admin/admin-filters-term.php:171
+#: admin/admin-filters-columns.php:203 admin/admin-filters-media.php:56
+#: admin/admin-classic-editor.php:100 include/translated-post.php:108
+msgid "Language"
+msgstr "Мова"
+
+#: admin/view-translations-term.php:13 admin/view-translations-term.php:20
+#: admin/view-translations-post.php:11 admin/view-translations-media.php:12
+#: settings/table-string.php:131
+msgid "Translations"
+msgstr "Пераклады"
+
+#: admin/admin-filters-term.php:101 admin/admin-filters-term.php:173
+msgid "Sets the language"
+msgstr "Вызначае мову"
+
+#: admin/admin-filters.php:69 include/translated-post.php:109
+msgid "All languages"
+msgstr "Усе мовы"
+
+#: admin/admin-filters.php:168
+msgid "Upgrading language files&#8230;"
+msgstr "Абнаўленне моўных файлаў&#8230;"
+
+#: admin/admin-base.php:97 include/mo.php:18 settings/settings.php:160
+msgid "Strings translations"
+msgstr "Пераклады радкоў"
+
+#: modules/wizard/wizard.php:433 admin/admin-model.php:283
+msgid "The language code must be unique"
+msgstr "Код мовы павінны быць унікальным"
+
+#: modules/wizard/wizard.php:434 admin/admin-model.php:290
+msgid "The language must have a name"
+msgstr "Мова павінна мець назву"
+
+#: modules/sync/settings-sync.php:93
+msgid "Custom fields"
+msgstr "Адвольныя палі"
+
+#: modules/sync/settings-sync.php:97
+msgid "Published date"
+msgstr "Дата публікацыі"
+
+#: modules/sync/settings-sync.php:98
+msgid "Post format"
+msgstr "Фармат запісу"
+
+#: modules/sync/settings-sync.php:99
+msgid "Page parent"
+msgstr "Бацькоўская старонка"
+
+#: modules/sync/settings-sync.php:100
+msgid "Page template"
+msgstr "Шаблон старонкі"
+
+#: modules/sync/settings-sync.php:101
+msgid "Page order"
+msgstr "Парадак старонак"
+
+#: modules/sync/settings-sync.php:102
+msgid "Featured image"
+msgstr "Выбраная выява"
+
+#: settings/view-tab-lang.php:31
+msgid "Edit language"
+msgstr "Рэдагаваць мову"
+
+#: modules/wizard/view-wizard-step-languages.php:54
+#: modules/wizard/view-wizard-step-languages.php:58
+#: settings/view-tab-lang.php:31 settings/view-tab-lang.php:174
+msgid "Add new language"
+msgstr "Дадаць новую мову"
+
+#: include/widget-languages.php:48 settings/view-tab-lang.php:52
+msgid "Choose a language"
+msgstr "Выбраць мову"
+
+#: settings/view-tab-lang.php:72
+msgid "You can choose a language in the list or directly edit it below."
+msgstr "Вы можаце выбраць мову са спіса альбо дадаць яе ніжэй самастойна."
+
+#: settings/table-languages.php:145 settings/view-tab-lang.php:76
+msgid "Full name"
+msgstr "Поўная назва"
+
+#: settings/table-languages.php:146 settings/view-tab-lang.php:87
+msgid "Locale"
+msgstr "Лакаль"
+
+#: settings/view-tab-lang.php:98
+msgid "Language code"
+msgstr "Код мовы"
+
+#: settings/view-tab-lang.php:109
+msgid "Text direction"
+msgstr "Напрамак тэксту"
+
+#: settings/view-tab-lang.php:114
+msgid "left to right"
+msgstr "злева направа"
+
+#: settings/view-tab-lang.php:119
+msgid "right to left"
+msgstr "справа налева"
+
+#: settings/view-tab-lang.php:122
+msgid "Choose the text direction for the language"
+msgstr "Выберыце напрамак тэксту"
+
+#: settings/table-languages.php:149 settings/view-tab-lang.php:146
+msgid "Order"
+msgstr "Парадак"
+
+#: settings/view-tab-lang.php:153
+msgid "Position of the language in the language switcher"
+msgstr "Месца мовы ў пераключальніку моў"
+
+#: settings/view-tab-strings.php:15
+msgid "Search translations"
+msgstr "Пошук перакладаў"
+
+#: settings/view-tab-strings.php:18
+msgid "Clean strings translation database"
+msgstr "Ачысціць базу дадзеных радкоў перакладу"
+
+#: settings/settings-browser.php:23
+msgid "Detect browser language"
+msgstr "Вызначыць мову браўзера"
+
+#: settings/settings-browser.php:24
+msgid "When the front page is visited, set the language according to the browser preference"
+msgstr "Вызначыць мову сайта паводле налад браўзера"
+
+#: settings/settings-url.php:22
+msgid "URL modifications"
+msgstr "Мадыфікацыі URL"
+
+#: settings/settings-url.php:109
+msgid "Hide URL language information for default language"
+msgstr "Схаваць назву мовы з URL"
+
+#: modules/wizard/view-wizard-step-media.php:20 modules/wizard/wizard.php:552
+#: settings/settings-media.php:22
+msgid "Media"
+msgstr "Медыа"
+
+#: modules/sync/settings-sync.php:22
+msgid "Synchronization"
+msgstr "Сінхранізацыя"
+
+#: settings/table-languages.php:203
+msgid "Edit"
+msgstr "Рэдагаваць"
+
+#: settings/table-languages.php:210 settings/table-string.php:282
+msgid "Delete"
+msgstr "Выдаліць"
+
+#: settings/table-languages.php:147
+msgid "Code"
+msgstr "Код"
+
+#: settings/table-languages.php:150 settings/view-tab-lang.php:126
+msgid "Flag"
+msgstr "Сцяг"
+
+#: settings/table-languages.php:151
+msgid "Posts"
+msgstr "Запісы"
+
+#: settings/table-string.php:129
+msgid "Name"
+msgstr "Імя"
+
+#: settings/table-string.php:128
+msgid "String"
+msgstr "Радок"
+
+#: include/widget-languages.php:20
+msgid "Displays a language switcher"
+msgstr "Паказвае пераключальнік моў"
+
+#: include/widget-languages.php:90
+msgid "Title:"
+msgstr "Назва:"
+
+#: install/upgrade.php:76
+msgid "Polylang has been deactivated because you upgraded from a too old version."
+msgstr "Polylang быў выключаны, таму што вы аднаўляецеся з немагчыма старой версіі."
+
+#: settings/table-string.php:130
+msgid "Group"
+msgstr "Група"
+
+#: settings/table-string.php:319
+msgid "View all groups"
+msgstr "Прагледзець усе групы"
+
+#: settings/settings-url.php:44
+msgid "The language is set from content"
+msgstr "Мова наладжана згодна са змесцівам"
+
+#: settings/settings-url.php:76
+msgid "The language is set from different domains"
+msgstr "Мова наладжана з розных даменаў"
+
+#: settings/settings-url.php:160
+msgid "The front page url contains the language code instead of the page name or page id"
+msgstr "Спасылка на галоўную старонку ўтрымлівае код мовы замест імя альбо id старонкі"
+
+#: modules/wizard/wizard.php:430 admin/admin-model.php:41
+msgid "Impossible to add the language."
+msgstr "Немагчыма дадаць мову."
+
+#: settings/settings.php:200
+msgid "Language added."
+msgstr "Мова дададзена."
+
+#: settings/settings.php:222
+msgid "Language deleted."
+msgstr "Мова выдалена."
+
+#: admin/admin-static-pages.php:154 admin/admin-static-pages.php:171
+msgid "The chosen static front page must be translated in all languages."
+msgstr "Выбраная статычная галоўная старонка павінна быць перакладзена на ўсе мовы."
+
+#: admin/admin-strings.php:60
+msgid "Widget text"
+msgstr "Тэкст віджэта"
+
+#: admin/admin-filters-term.php:464
+msgid "None"
+msgstr "Няма"
+
+#: settings/view-tab-lang.php:174
+msgid "Update"
+msgstr "Абнавіць"
+
+#: settings/table-string.php:332
+msgid "Filter"
+msgstr "Фільтр"
+
+#: settings/settings-module.php:176 settings/settings-licenses.php:98
+msgid "Settings saved."
+msgstr "Налады захаваны."
+
+#: admin/admin-strings.php:57
+msgid "Time Format"
+msgstr "Фармат часу"
+
+#: admin/admin-strings.php:56
+msgid "Date Format"
+msgstr "Фармат даты"
+
+#: admin/admin-strings.php:54
+msgid "Site Title"
+msgstr "Назва сайта"
+
+#: admin/admin-classic-editor.php:204
+msgid "(no parent)"
+msgstr "(няма бацькоўскага)"
+
+#: admin/admin-filters-columns.php:189
+msgid "&mdash; No Change &mdash;"
+msgstr "&mdash; Няма змен &mdash;"
+
+#: admin/admin-strings.php:55
+msgid "Tagline"
+msgstr "Падзагаловак"
+
+#: settings/settings-url.php:54
+msgid "The language is set from the code in the URL"
+msgstr "Мова наладжана з коду ў URL"
+
+#: lingotek/lingotek.php:42
+msgid "Activate Lingotek"
+msgstr "Актываваць Lingotek"
+
+#: lingotek/lingotek.php:37
+msgid "Click on Activate Lingotek to start translating."
+msgstr "Націсніце \"Актываваць Lingotek\", каб пачаць перакладаць."
+
+#: lingotek/lingotek.php:33
+msgid "Learn more"
+msgstr "Даведацца больш"
+
+#: settings/settings-licenses.php:28
+msgid "Close"
+msgstr "Закрыць"
+
+#: lingotek/lingotek.php:28
+msgid "You’ve just upgraded to the latest version of Polylang! Would you like to automatically translate your website for free?"
+msgstr "Вы толькі што абнавіліся да апошняй версіі Polylang! Хочаце бясплатна перакласці свой сайт аўтаматычна?"
+
+#. translators: Calendar caption: 1: month name, 2: 4-digit year
+#: include/widget-calendar.php:141
+msgctxt "calendar caption"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: include/switcher.php:27
+msgid "Hides languages with no translation"
+msgstr "Хавае мовы без перакладу"
+
+#: modules/plugins/plugins-compat.php:165
+msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr "Імпартаваць <strong>запісы, старонкі, каментарыі, адвольныя палі, катэгорыі і тэгі</strong> з файла экспарту WordPress."
+
+#: include/model.php:389
+msgid "Uncategorized"
+msgstr "Без катэгорыі"
+
+#: frontend/frontend-filters-search.php:83
+#: frontend/frontend-filters-search.php:84
+msgid "Search"
+msgstr "Пошук"
+
+#: admin/admin.php:80 admin/admin-base.php:100 settings/settings-module.php:46
+msgid "Settings"
+msgstr "Налады"
+
+#: settings/table-languages.php:209
+msgid "You are about to permanently delete this language. Are you sure?"
+msgstr "Вы збіраецеся выдаліць гэтую мову назаўсёды. Вы ўпэўнены?"
+
+#: settings/view-tab-lang.php:94
+msgid "WordPress Locale for the language (for example: en_US). You will need to install the .mo file for this language."
+msgstr "Моўны стандарт WordPress для мовы (напрыклад: be_BY). Вы павінны ўсталяваць файлы .mo для гэтай мовы."
+
+#: admin/admin-strings.php:59
+msgid "Widget title"
+msgstr "Назва віджэта"
+
+#: settings/view-tab-strings.php:20
+msgid "Use this to remove unused strings from database, for example after a plugin has been uninstalled."
+msgstr "Скарыстайцеся гэтай функцыяй, каб выдаліць невыкарыстоўваемыя радкі з базы дадзеных (напрыклад, пасля выдалення плагіна)."
+
+#: settings/table-string.php:383
+msgid "Translations updated."
+msgstr "Пераклады абноўлены."
+
+#: admin/admin-filters.php:83
+msgid "The widget is displayed for:"
+msgstr "Віджэт адлюстроўваецца для:"
+
+#: modules/sync/settings-sync.php:92
+msgid "Taxonomies"
+msgstr "Таксанаміі"
+
+#: modules/wizard/wizard.php:432 admin/admin-model.php:277
+msgid "The language code contains invalid characters"
+msgstr "Код мовы ўтрымлівае недапушчальныя сімвалы"
+
+#: settings/settings-url.php:54
+msgid "The language is set from the directory name in pretty permalinks"
+msgstr "Мова наладжана згодна з імем каталога у сталых спасылках"
+
+#: settings/settings.php:207
+msgid "The language was created, but the WordPress language file was not downloaded. Please install it manually."
+msgstr "Мова была створана, але моўны файл WordPress не быў загружаны. Усталюйце яго ўручную."
+
+#: settings/view-tab-lang.php:83
+msgid "The name is how it is displayed on your site (for example: English)."
+msgstr "Назва для адлюстравання на сайце (напрыклад: беларуская)."
+
+#: modules/sync/settings-sync.php:23
+msgid "The synchronization options allow to maintain exact same values (or translations in the case of taxonomies and page parent) of meta content between the translations of a post or page."
+msgstr "Налады сінхранізацыі дазваляюць падтрымліваць гэткія ж самыя значэнні (альбо пераклады ў выпадку таксанаміі і бацькоўскай старонкі) метазмесціва паміж перакладамі запісу альбо старонкі."
+
+#: modules/sync/settings-sync.php:96
+msgid "Sticky posts"
+msgstr "Прылепленыя запісы"
+
+#: settings/settings-url.php:129
+msgid "Remove /language/ in pretty permalinks"
+msgstr "Выдаліць /language/ у сталых спасылках"
+
+#: settings/settings-media.php:23
+msgid "Activate languages and translations for media"
+msgstr "Актываваць мовы і пераклады для медыяфайлаў"
+
+#: settings/settings-cpt.php:106
+msgid "Activate languages and translations for custom taxonomies."
+msgstr "Актываваць мовы і пераклады для адвольных таксанамій."
+
+#: settings/settings-cpt.php:82
+msgid "Activate languages and translations for custom post types."
+msgstr "Актываваць мовы і пераклады для адвольных тыпаў запісаў."
+
+#: settings/settings.php:132
+msgid "About Polylang"
+msgstr "Пра Polylang"
+
+#. translators: accessibility text
+#: modules/wizard/view-wizard-step-languages.php:75
+#: modules/wizard/view-wizard-step-languages.php:90
+#: modules/wizard/view-wizard-step-home-page.php:76
+#: modules/wizard/view-wizard-step-home-page.php:91
+#: modules/wizard/view-wizard-step-home-page.php:123
+#: settings/table-languages.php:129 settings/table-languages.php:148
+msgid "Default language"
+msgstr "Мова па змаўчанні"
+
+#: settings/settings-cpt.php:88
+msgid "Custom taxonomies"
+msgstr "Адвольныя таксанаміі"
+
+#: settings/settings-cpt.php:64
+msgid "Custom post types"
+msgstr "Адвольны тыпы запісаў"
+
+#: modules/sync/settings-sync.php:94
+msgid "Comment status"
+msgstr "Стан каментарыя"
+
+#: modules/wizard/wizard.php:431 admin/admin-model.php:272
+msgid "Enter a valid WordPress locale"
+msgstr "Увядзіце сапраўдны лакальны стандарт WordPress"
+
+#: include/switcher.php:23
+msgid "Displays language names"
+msgstr "Паказвае назвы моў"
+
+#: include/switcher.php:24
+msgid "Displays flags"
+msgstr "Паказвае сцягі"
+
+#: admin/admin-base.php:398 admin/admin-base.php:417
+msgid "Filters content by language"
+msgstr "Адбірае змесціва паводле мовы"
+
+#: include/switcher.php:25
+msgid "Forces link to front page"
+msgstr "Уключае прымусовы пераход на галоўную старонку сайта"
+
+#: settings/settings-url.php:58 settings/settings-url.php:69
+#: settings/settings-url.php:133 settings/settings-url.php:144
+msgid "Example:"
+msgstr "Узор:"
+
+#: include/switcher.php:26
+msgid "Hides the current language"
+msgstr "Хавае бягучую мову"
+
+#: settings/settings.php:237
+msgid "Language updated."
+msgstr "Мова абноўлена."
+
+#: admin/admin-nav-menu.php:44 include/nav-menu.php:45
+#: include/widget-languages.php:18 install/upgrade.php:338
+msgid "Language switcher"
+msgstr "Пераключальнік моў"
+
+#: settings/settings-url.php:140
+msgid "Keep /language/ in pretty permalinks"
+msgstr "Захаваць /language/ у сталых спасылках"
+
+#: modules/sync/settings-sync.php:95
+msgid "Ping status"
+msgstr "Стан пінга"
+
+#: settings/settings-url.php:65
+msgid "The language is set from the subdomain name in pretty permalinks"
+msgstr "Мова наладжана згодна з імем паддамена ў сталых спасылках"
+
+#: settings/view-tab-lang.php:105
+msgid "Language code - preferably 2-letters ISO 639-1  (for example: en)"
+msgstr "Код мовы - пажадана двухлітарны, згодна са стандартам ISO 639-1 (напрыклад: by)"
+
+#. translators: %1$s example url when the option is active. %2$s example url
+#. when the option is not active
+#: settings/settings-url.php:171
+msgid "Example: %1$s instead of %2$s"
+msgstr "Прыклад: %1$s замест %2$s"

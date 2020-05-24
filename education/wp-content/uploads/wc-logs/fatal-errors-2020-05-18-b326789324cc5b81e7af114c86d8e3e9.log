@@ -1,0 +1,77 @@
+2020-05-18T13:07:03+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Editor\Editor' not found in G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php:579
+Stack trace:
+#0 G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php(499): Elementor\Plugin->init_components()
+#1 G:\OpenServer\OpenServer\domains\education\wp-includes\class-wp-hook.php(287): Elementor\Plugin->init('')
+#2 G:\OpenServer\OpenServer\domains\education\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 G:\OpenServer\OpenServer\domains\education\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 G:\OpenServer\OpenServer\domains\education\wp-settings.php(540): do_action('init')
+#5 G:\OpenServer\OpenServer\domains\education\wp-config.php(89): require_once('G:\\OpenServer\\O...')
+#6 G:\OpenServer\OpenServer\domains\education\wp-load.php(37): require_once('G:\\OpenServer\\O...')
+#7 G:\OpenServer\OpenServer\domains\education\wp-admin\admin.php(34): require_once('G:\\OpenServ в G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php на строке 579
+
+2020-05-18T13:07:05+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Editor\Editor' not found in G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php:579
+Stack trace:
+#0 G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php(499): Elementor\Plugin->init_components()
+#1 G:\OpenServer\OpenServer\domains\education\wp-includes\class-wp-hook.php(287): Elementor\Plugin->init('')
+#2 G:\OpenServer\OpenServer\domains\education\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 G:\OpenServer\OpenServer\domains\education\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 G:\OpenServer\OpenServer\domains\education\wp-settings.php(540): do_action('init')
+#5 G:\OpenServer\OpenServer\domains\education\wp-config.php(89): require_once('G:\\OpenServer\\O...')
+#6 G:\OpenServer\OpenServer\domains\education\wp-load.php(37): require_once('G:\\OpenServer\\O...')
+#7 G:\OpenServer\OpenServer\domains\education\wp-blog-header.php(13): require_once('G:\\OpenServ в G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php на строке 579
+
+2020-05-18T13:07:22+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Editor\Editor' not found in G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php:579
+Stack trace:
+#0 G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php(499): Elementor\Plugin->init_components()
+#1 G:\OpenServer\OpenServer\domains\education\wp-includes\class-wp-hook.php(287): Elementor\Plugin->init('')
+#2 G:\OpenServer\OpenServer\domains\education\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 G:\OpenServer\OpenServer\domains\education\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 G:\OpenServer\OpenServer\domains\education\wp-settings.php(540): do_action('init')
+#5 G:\OpenServer\OpenServer\domains\education\wp-config.php(89): require_once('G:\\OpenServer\\O...')
+#6 G:\OpenServer\OpenServer\domains\education\wp-load.php(37): require_once('G:\\OpenServer\\O...')
+#7 G:\OpenServer\OpenServer\domains\education\wp-admin\admin-ajax.php(22): require_once('G:\\Ope в G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php на строке 579
+
+2020-05-18T13:07:49+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Editor\Editor' not found in G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php:579
+Stack trace:
+#0 G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php(499): Elementor\Plugin->init_components()
+#1 G:\OpenServer\OpenServer\domains\education\wp-includes\class-wp-hook.php(287): Elementor\Plugin->init('')
+#2 G:\OpenServer\OpenServer\domains\education\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 G:\OpenServer\OpenServer\domains\education\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 G:\OpenServer\OpenServer\domains\education\wp-settings.php(540): do_action('init')
+#5 G:\OpenServer\OpenServer\domains\education\wp-config.php(89): require_once('G:\\OpenServer\\O...')
+#6 G:\OpenServer\OpenServer\domains\education\wp-load.php(37): require_once('G:\\OpenServer\\O...')
+#7 G:\OpenServer\OpenServer\domains\education\wp-admin\admin.php(34): require_once('G:\\OpenServ в G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php на строке 579
+
+2020-05-18T13:07:52+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Editor\Editor' not found in G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php:579
+Stack trace:
+#0 G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php(499): Elementor\Plugin->init_components()
+#1 G:\OpenServer\OpenServer\domains\education\wp-includes\class-wp-hook.php(287): Elementor\Plugin->init('')
+#2 G:\OpenServer\OpenServer\domains\education\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 G:\OpenServer\OpenServer\domains\education\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 G:\OpenServer\OpenServer\domains\education\wp-settings.php(540): do_action('init')
+#5 G:\OpenServer\OpenServer\domains\education\wp-config.php(89): require_once('G:\\OpenServer\\O...')
+#6 G:\OpenServer\OpenServer\domains\education\wp-load.php(37): require_once('G:\\OpenServer\\O...')
+#7 G:\OpenServer\OpenServer\domains\education\wp-blog-header.php(13): require_once('G:\\OpenServ в G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php на строке 579
+
+2020-05-18T13:07:54+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Editor\Editor' not found in G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php:579
+Stack trace:
+#0 G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php(499): Elementor\Plugin->init_components()
+#1 G:\OpenServer\OpenServer\domains\education\wp-includes\class-wp-hook.php(287): Elementor\Plugin->init('')
+#2 G:\OpenServer\OpenServer\domains\education\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 G:\OpenServer\OpenServer\domains\education\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 G:\OpenServer\OpenServer\domains\education\wp-settings.php(540): do_action('init')
+#5 G:\OpenServer\OpenServer\domains\education\wp-config.php(89): require_once('G:\\OpenServer\\O...')
+#6 G:\OpenServer\OpenServer\domains\education\wp-load.php(37): require_once('G:\\OpenServer\\O...')
+#7 G:\OpenServer\OpenServer\domains\education\wp-admin\admin.php(34): require_once('G:\\OpenServ в G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php на строке 579
+
+2020-05-18T13:07:57+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Editor\Editor' not found in G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php:579
+Stack trace:
+#0 G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php(499): Elementor\Plugin->init_components()
+#1 G:\OpenServer\OpenServer\domains\education\wp-includes\class-wp-hook.php(287): Elementor\Plugin->init('')
+#2 G:\OpenServer\OpenServer\domains\education\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 G:\OpenServer\OpenServer\domains\education\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 G:\OpenServer\OpenServer\domains\education\wp-settings.php(540): do_action('init')
+#5 G:\OpenServer\OpenServer\domains\education\wp-config.php(89): require_once('G:\\OpenServer\\O...')
+#6 G:\OpenServer\OpenServer\domains\education\wp-load.php(37): require_once('G:\\OpenServer\\O...')
+#7 G:\OpenServer\OpenServer\domains\education\wp-blog-header.php(13): require_once('G:\\OpenServ в G:\OpenServer\OpenServer\domains\education\wp-content\plugins\elementor\includes\plugin.php на строке 579
+

@@ -1,0 +1,100 @@
+# Translation of Plugins - QIWI Касса для WooCommerce - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - QIWI Касса для WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-17 12:04:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - QIWI Касса для WooCommerce - Development (trunk)\n"
+
+#. Plugin Name of the plugin
+msgid "Woocommerce QIWI payment gateway"
+msgstr "Woocommerce QIWI платежный шлюз"
+
+#. Description of the plugin
+msgid "QIWI universal payment API integration for Woocommerce"
+msgstr "Интеграция универсального платежного API QIWI для Woocommerce"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/QIWI-API/woocommerce-payment-qiwi"
+msgstr "https://github.com/QIWI-API/woocommerce-payment-qiwi"
+
+#. Author of the plugin
+msgid "QIWI"
+msgstr "QIWI"
+
+#. Author URI of the plugin
+msgid "https://qiwi.com/"
+msgstr "https://qiwi.com/"
+
+#: includes/class-gateway.php:82 woocommerce-payment-qiwi.php:71
+msgid "QIWI cash"
+msgstr "QIWI наличными"
+
+#: includes/class-gateway.php:88
+msgid "Payment over: VISA, MasterCard, MIR, Phone balance, QIWI Wallet"
+msgstr "Оплата через: VISA, MasterCard, MIR, Баланс телефона, QIWI Кошелек"
+
+#: includes/class-gateway.php:94
+msgid "Payment from bank cards, QIWI Wallet and phone balance. Guaranteed security of your payments."
+msgstr "Оплата с банковских карт, QIWI Кошелька и баланса телефона. Гарантированная безопасность ваших платежей."
+
+#: includes/class-gateway.php:164
+msgid "To start working with the QIWI cash service, you need to <a href=\"https://kassa.qiwi.com/\" target=\"_blank\">register a store</a>."
+msgstr "Чтобы начать работать с кассовым сервисом QIWI, вам необходимо <a href=\"https://kassa.qiwi.com/\" target=\"_blank\">зарегистрировать магазин</a>,"
+
+#: includes/class-gateway.php:170
+msgid "Also, a <a href=\"https://kassa.qiwi.com/\" target=\"_blank\">demonstration stand</a> is available for you."
+msgstr "Также <a href=\"https://kassa.qiwi.com/\" target=\"_blank\">демонстрационный стенд</a> доступен для вас."
+
+#: includes/class-gateway.php:227
+msgid "Turn On/off"
+msgstr "Включение / выключение"
+
+#: includes/class-gateway.php:250
+msgid "The name of the payment method displayed to customers."
+msgstr "Название способа оплаты отображается для клиентов."
+
+#: includes/class-gateway.php:244
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/class-gateway.php:234
+msgid "Activate payment module %1$s"
+msgstr "Активировать модуль оплаты %1$s"
+
+#: includes/class-gateway.php:260
+msgid "Description"
+msgstr "Описание"
+
+#: includes/class-gateway.php:266
+msgid "Description of the payment method displayed to customers."
+msgstr "Описание способа оплаты отображается для клиентов."
+
+#: includes/class-gateway.php:282
+msgid "The key to the payment system for your store."
+msgstr "Ключ к платежной системе для вашего магазина."
+
+#: includes/class-gateway.php:276
+msgid "Secret key"
+msgstr "Секретный ключ"
+
+#: includes/class-gateway.php:291
+msgid "Notification address"
+msgstr "Адрес для уведомления"
+
+#: includes/class-gateway.php:297
+msgid "Set this value in the payment system store settings."
+msgstr "Установите это значение в настройках магазина платежной системы ."
+
+#: woocommerce-payment-qiwi.php:90
+msgid "<div class=\"error\"><p><strong>Error:</strong> Plugin \"%1$s\" is not installed correctly.</p><p>Please, see instructions for <a href=\"%2$s\" target=\"_blank\">manual instalation</a>.</p></div>"
+msgstr "<div class=\"error\"><p><strong>Ошибка:</strong> Плагин \"%1$s\"неправильно установлен.</p><p>Пожалуйста, смотрите инструкции по <a href=\"%2$s\" target=\"_blank\">установки</a>,</p></div>"
+
+#: includes/class-gateway.php:455
+msgid "Completed refund  %1$s"
+msgstr "Возврат выполнен %1$s"
